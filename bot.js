@@ -23,4 +23,4 @@ description: "Test!"
 
 });
 
-client.login(process.env.NTg3MDI0MDgwOTg1NjUzMjcy.XPwyHA.Z74y1vOgIaiv8IuXnL52_Y33pMI);
+client.login(process.env.BOT_TOKEN);
